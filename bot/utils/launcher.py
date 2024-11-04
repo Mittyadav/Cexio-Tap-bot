@@ -15,12 +15,7 @@ from bot.core.registrator import register_sessions
 from bot.utils.version_updater import parser as ps
 
 start_text = """
-
- __   ___        __      __   __  ___ 
-/  ` |__  \_/ | /  \    |__) /  \  |  
-\__, |___ / \ | \__/    |__) \__/  |  
-
-            BY DARK LIFE                                                                                                       
+           BY DARK LIFE                                                                                                       
 
 Select an action:
 
