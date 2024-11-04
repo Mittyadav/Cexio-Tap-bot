@@ -20,7 +20,7 @@ start_text = """
 /  ` |__  \_/ | /  \    |__) /  \  |  
 \__, |___ / \ | \__/    |__) \__/  |  
 
-            BY VANHBAKA                                                                                                       
+            BY DARK LIFE                                                                                                       
 
 Select an action:
 
